@@ -1,11 +1,30 @@
-[![MasterHead](https://media.istockphoto.com/id/676697088/vector/new-york-skyline.jpg?s=612x612&w=0&k=20&c=SGua-nRy3KoU2hXrtHg_J3_APosU8ECUj5xT2umiNlw=)](https://media.istockphoto.com/id/676697088/vector/new-york-skyline.jpg?s=612x612&w=0&k=20&c=SGua-nRy3KoU2hXrtHg_J3_APosU8ECUj5xT2umiNlw=)
+<div align="center">
+  <img src="https://cdn.vox-cdn.com/thumbor/ZnP9cnjIn60slvybF_34lby1uMk=/0x0:2000x1125/1200x675/filters:focal(840x403:1160x723)/cdn.vox-cdn.com/uploads/chorus_image/image/58203557/171109_06_49_10_5DSR4201.0.jpg" alt="MasterHead" width="80%" />
+</div>
 
 <h1 align="center">Hi, I'm Aymen Alnamer</h1>
 <h3 align="center">A full stack developer based in NYC</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966"/>
 
 
+<div>
+  
+<p align="left">
+  👨‍💻  With a strong foundation in front-end and back-end development, I enjoy building robust and user-friendly solutions that deliver a great user experience.
+</p>
 
+<p align="left">
+ 🔭 I take pride in my problem-solving abilities and enjoy collaborating with others to bring innovative ideas to life.
+</p>
+
+<p align="left">
+⚡ When I'm not coding, you can find me exploring new technologies, reading tech blogs, or engaging in creative hobbies.
+</p>
+
+<p align="left">
+📫 Feel free to reach out to me at collaymen.alnamer@gmail.com. I'm open to new opportunities and collaborations. Let's connect and create something awesome together!
+</p>
+  <div/>
 - 🌱 I’m currently in the process of learning **C++ and React Native**
 
 - 👨‍💻 All of my projects are available at [https://aymen-alnamer-dev.web.app/](https://aymen-alnamer-dev.web.app/)
